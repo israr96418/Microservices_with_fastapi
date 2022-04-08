@@ -2,6 +2,7 @@
 
 I build Microservices with fastpai 
 I used redis which is realtime database
+https://app.redislabs.com/#/login
 
 Microservice 1:
         I build inventory Microsevice which maintain our stack.
